@@ -12,6 +12,8 @@ public class ControllerNum1 {
     @GetMapping("/showFirst")
   public   String show() {
 
-        return "list";
+
+
+        return null;
     }
 }
